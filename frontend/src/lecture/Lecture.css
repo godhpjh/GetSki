@@ -1,0 +1,52 @@
+.lecture {
+  font-family: 'Do Hyeon'!important;
+}
+
+.box {
+  text-align: right
+}
+
+.menu {
+  font-size: 4em;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.submenu {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+.content {
+  font-size: 1.2em;
+  font-family: 'Noto Sans KR';
+}
+
+.subcontent {
+  font-size: 1.25em;
+}
+
+.events {
+    list-style: none;
+    margin: 10em;
+    padding: 10em;
+}
+
+.events .ant-badge-status {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+  text-overflow: ellipsis;
+  font-size: 35px;
+}
+
+.notes-month {
+  text-align: center;
+  font-size: 35px;
+}
+
+.notes-month section {
+  font-size: 35px;
+}
