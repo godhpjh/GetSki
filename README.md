@@ -24,7 +24,7 @@ SSAFY 2기 서울 3반 4조
 
 ## 기술 스택
 
-![IMG_5784](./images/GETSKI_stack.PNG)
+![IMG_5784](./images/stack.JPG)
 
 
 
