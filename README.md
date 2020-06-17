@@ -6,8 +6,8 @@ SSAFY 2기 서울 3반 4조
 
 - 김민호 [@mhKim](https://lab.ssafy.com/mhKim)
 - 김은영 [@youngslife](https://lab.ssafy.com/youngslife)
-- 김지희 [@514kim](https://lab.ssafy.com/514kim) @514kim. 
-- 박성호 [@ParkSungHo](https://lab.ssafy.com/ParkSungHo) @ParkSungHo
+- 김지희 [@514kim](https://lab.ssafy.com/514kim)
+- 박성호 [@ParkSungHo](https://lab.ssafy.com/ParkSungHo)
 - 신광식 [@mel1015](https://lab.ssafy.com/mel1015)
 
 
@@ -19,6 +19,12 @@ SSAFY 2기 서울 3반 4조
   이를 보완하기 위해 겟스키는 전국에 있는 대한민국 스키장에 대한 위치, 요금, 슬로프 등 정보를 한곳에서 제공합니다.
 
   또한 강습 예약 서비스를 통해 강습을 열고 싶은 강사 유저들에게 보다 넓은 강습의 기회를 제공하고, 강습에 대한 후기 정보를 통해 수강을 원하는 유저들이 보다 객관적인 정보를 바탕으로 강습을 선택할 수 있는 기회를 제공합니다. 
+
+
+
+## 기술 스택
+
+![IMG_5784](./images/GETSKI_stack.PNG)
 
 
 
